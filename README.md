@@ -12,8 +12,8 @@ Simple and user-friendly interface
 
 Prerequisites
 
-Python 3.6 or higher
-OpenCV
-MediaPipe
-Scikit-Learn
+Python 3.6 or higher,
+OpenCV,
+MediaPipe ,
+Scikit-Learn ,
 Numpy
